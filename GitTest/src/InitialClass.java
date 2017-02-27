@@ -4,6 +4,7 @@ public class InitialClass {
 
 		System.out.println("hellow git !");
 		
+		System.out.println("Adfgdfag");
 		 
 	}
 }
