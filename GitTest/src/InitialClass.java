@@ -7,8 +7,8 @@ public class InitialClass {
 		System.out.println("Adfgdfag");
 		
 		System.out.println("gbvb");
-
-
+		
+		System.out.println("hihihihihihihi");
 		 
 	}
 }
