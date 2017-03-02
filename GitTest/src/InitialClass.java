@@ -9,6 +9,8 @@ public class InitialClass {
 		System.out.println("gbvb");
 		
 		System.out.println("hihihihihihihi");
+		
+		
 		 
 	}
 }
